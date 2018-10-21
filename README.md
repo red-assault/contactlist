@@ -4,8 +4,8 @@ I am a beginner and I am working to create a C(create) R(read) U(update) D(delet
 I am using Visual Studio Code as my editor . 
 
 # Under the file contactlist\client\src\app\contacts it is showing an error :-
- {
-	"resource": "/e:/project/contactlist/client/src/app/contacts/contacts.component.ts",
+      {
+	 "resource": "/e:/project/contactlist/client/src/app/contacts/contacts.component.ts",
 	"owner": "typescript",
 	"code": "2306",
 	"severity": 8,
@@ -15,9 +15,9 @@ I am using Visual Studio Code as my editor .
 	"startColumn": 35,
 	"endLineNumber": 1,
 	"endColumn": 50
-}
+     }
 
 
-     I have tried various things by searching the solution online but nothing helps . Hope someone can fix it.
+  I have tried various things by searching the solution online but nothing works . Hope someone can fix it.
  
  
